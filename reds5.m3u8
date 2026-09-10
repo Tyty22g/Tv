@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=14x8,NAME="8k"
+https://main.light-ott.net:80/play/live.php?mac=00:1B:79:4A:54:2C&stream=242268&extension=m3u8
