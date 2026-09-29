@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=0x0,NAME="multi"
-https://redperch.space/dramacardinalv2.php?id=shasha1
+#EXT-X-STREAM-INF:BANDWIDTH=864000,RESOLUTION=1280x720,NAME="720"
+http://m3u.lol:80/live/georgesalem/17465274188576/586944.m3u8
