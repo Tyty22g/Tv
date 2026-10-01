@@ -2,3 +2,5 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=0x0,NAME="Stream"
 https://alkatlanhd.xmax1tv.com/live/6.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=0x0,NAME="Stream"
+https://alkatlanhd.xmax1tv.com/live/2.m3u8
