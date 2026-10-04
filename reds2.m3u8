@@ -2,5 +2,3 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=864000,RESOLUTION=1280x720,NAME="Stream"
 http://main.light-ott.net/play/live.php?mac=00:1B:79:4A:54:2C&stream=242267&extension=m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=640x360,NAME="360"
-https://man1ted.com/watch/beee2.m3u8?md5=bs2-E6aky_6EYjd0IHJLgQ&expires=1791091474
