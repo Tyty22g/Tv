@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=0x0,NAME="Stream"
-https://reezn-live-prod.boyscardinalhair.workers.dev/5068/index.mpd
+https://reezn-live-prod.boyscardinalhair.workers.dev/5068/index.mpd?hdnts=exp%3D1791746362~hmac%3Dfdc32ae8ade850e924b1b91f20a8154344ae47d0519fd6b60df4a793d8da814c
