@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=640x360,NAME="360"
-http://a.norzro.cfd/live/8667593288/2505245402/212350.m3u8
+https://tod.ilovesoulpunk.workers.dev/api/hls?url=http%3A%2F%2Fh56.cloudvoria.lol%2Flive%2F10011244%2Findex.m3u8%3Ft%3DvJhXJG8hnteVILJUdjtXAA%26e%3D1792243962
 #EXT-X-STREAM-INF:BANDWIDTH=864000,RESOLUTION=1280x720,NAME="720"
-http://a.norzro.cfd/live/8667593288/2505245402/212338.m3u8
+https://tod.ilovesoulpunk.workers.dev/api/hls?url=http%3A%2F%2Fh24.edgevelis.lol%2Flive%2F69854211%2Findex.m3u8%3Ft%3DEFBBbot0ec-ImDB-irpU5A%26e%3D1792243965
