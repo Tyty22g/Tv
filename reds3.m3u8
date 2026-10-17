@@ -1,8 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=427x240,NAME="240"
-https://tod.ilovesoulpunk.workers.dev/api/hls?url=http%3A%2F%2Fh22.autoforge.buzz%2Flive%2F551818447%2Findex.m3u8%3Ft%3DMsFcbMJaLrDMa-Jws-xh3A%26e%3D1792244924
-#EXT-X-STREAM-INF:BANDWIDTH=864000,RESOLUTION=1280x720,NAME="720"
-https://tod.ilovesoulpunk.workers.dev/api/hls?url=http%3A%2F%2Fh61.edgenavo.lol%2Flive%2F645587700%2Findex.m3u8%3Ft%3DK19g1WEsrkBHuxGzMlVFNw%26e%3D1792244917
-#EXT-X-STREAM-INF:BANDWIDTH=1296000,RESOLUTION=1920x1080,NAME="1080"
-https://tod.ilovesoulpunk.workers.dev/api/hls?url=http%3A%2F%2Fh49.vidsentra.lol%2Flive%2F645587700%2Findex.m3u8%3Ft%3D2dJTQX0xinkWMWQ0Q_O4pw%26e%3D1792244933
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=0x0,NAME="Stream"
+http://mag.tiger-ott.net/live/TN78EZ/9NPKXL/1030238.m3u8
