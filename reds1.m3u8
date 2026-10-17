@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=640x360,NAME="360"
-https://tod.ilovesoulpunk.workers.dev/api/hls?url=http%3A%2F%2Fh22.edgequanta.lol%2Flive%2F978480008877005%2Findex.m3u8%3Ft%3DfK4ldMoNXbldV2U4ba6Tfw%26e%3D1792235932
+http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/677075.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=864000,RESOLUTION=1280x720,NAME="720"
-https://tod.ilovesoulpunk.workers.dev/api/hls?url=http%3A%2F%2Fh56.hostvoria.lol%2Flive%2F918454578001%2Findex.m3u8%3Ft%3Dq-egww2uddYtTgz2RPXKBQ%26e%3D1792235921
+http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/677057.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1296000,RESOLUTION=1920x1080,NAME="1080"
-https://tod.ilovesoulpunk.workers.dev/api/hls?url=http%3A%2F%2Fh22.autoforge.buzz%2Flive%2F918454578001%2Findex.m3u8%3Ft%3DLqr6SA6YT9Po1bls54SKLg%26e%3D1792235953
+http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/677021.m3u8
