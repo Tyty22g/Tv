@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=0x0,NAME="Stream"
-https://reezn-live-prod.boyscardinalhair.workers.dev/5068/index.mpd?hdnts=exp%3D1792751536~hmac%3D79de8562254a216137a173149a75ceb36e8fd86d4bdf9934560d9def313aaa5f
+http://coco3-cdn.cfd:8085/alwan-1/video.m3u8
