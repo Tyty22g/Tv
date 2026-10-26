@@ -4,3 +4,5 @@
 http://mm332.minisdstar.com/live/594040_.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=864000,RESOLUTION=1280x720,NAME="720"
 http://nno19.nanoearab.com/live/493682_.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=576000,RESOLUTION=853x480,NAME="480"
+http://nno19.nanoearab.com/live/906544_.m3u8
