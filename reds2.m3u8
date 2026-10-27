@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=688800,RESOLUTION=1020x574,NAME="574"
-http://nno19.nanoearab.com/live/422331_.m3u8
+http://thenogen.com:80/live/nova10467/5485723569/422331.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=864000,RESOLUTION=1280x720,NAME="720"
-http://nno19.nanoearab.com/live/509057_.m3u8
+http://thenogen.com:80/live/nova10467/5485723569/509057.m3u8
