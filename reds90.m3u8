@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=0x0,NAME="Stream"
-http://coco3-cdn.cfd:8085/alwan-1/video.m3u8
+http://pro.netmos.ovh:7355/live/31534790410213067/U09ZEDdu@6X!PeD/269720.m3u8
